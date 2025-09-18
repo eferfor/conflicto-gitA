@@ -1,1 +1,3 @@
-Línea orsdfsdfsdfsdfdsfsdfsdfdsf
+<<<<<<< HEAD
+LíneaLínea modificada
+>>>>>>> elena
